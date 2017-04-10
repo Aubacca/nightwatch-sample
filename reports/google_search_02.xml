@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="0">
+
+  <testsuite name="google_search_02"
+    errors="0" failures="0" hostname="" id="" package="google_search_02" skipped="0"
+    tests="0" time="0.000" timestamp="Thu, 06 Apr 2017 14:21:21 GMT">
+  
+  
+  </testsuite>
+</testsuites>

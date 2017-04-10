@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="2">
+
+  <testsuite name="multiSteps.test-01"
+    errors="0" failures="0" hostname="" id="" package="multiSteps" skipped="0"
+    tests="2" time="9.469" timestamp="Fri, 07 Apr 2017 14:17:42 GMT">
+  
+    <testcase name="step one" classname="multiSteps.test-01" time="6.708" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="step two" classname="multiSteps.test-01" time="2.761" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+  
+  </testsuite>
+</testsuites>
