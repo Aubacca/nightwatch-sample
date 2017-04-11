@@ -1,0 +1,17 @@
+# compiled and log output
+/bin
+/download
+/log
+/reports
+
+# dependencies
+/node_modules
+
+# e2e
+/e2e/*.js
+/e2e/*.map
+
+
+selenium-debug.log
+
+chromedriver.exe
