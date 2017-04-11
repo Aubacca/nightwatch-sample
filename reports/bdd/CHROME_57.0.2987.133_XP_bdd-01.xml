@@ -5,9 +5,9 @@
 
   <testsuite name="bdd.bdd-01"
     errors="0" failures="0" hostname="" id="" package="bdd" skipped="0"
-    tests="1" time="7.129" timestamp="Mon, 10 Apr 2017 12:35:51 GMT">
+    tests="1" time="6.723" timestamp="Tue, 11 Apr 2017 11:36:48 GMT">
   
-    <testcase name="BDD demo test" classname="bdd.bdd-01" time="7.129" assertions="6">
+    <testcase name="BDD demo test" classname="bdd.bdd-01" time="6.723" assertions="6">
 
     
 

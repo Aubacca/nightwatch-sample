@@ -14,7 +14,8 @@
     "cli_args" : {
       "webdriver.chrome.driver" : "bin/chromedriver.exe",
       "webdriver.gecko.driver" : "bin/geckodriver.exe",
-      "webdriver.edge.driver" : "bin/MicrosoftWebDriver.exe"
+      "webdriver.edge.driver" : "bin/MicrosoftWebDriver.exe",
+      "webdriver.ie.driver" : "C:\\tools\\IEDriverServer.exe"
     }
   },
 
@@ -46,6 +47,20 @@
     "edge" : {
       "desiredCapabilities": {
         "browserName": "MicrosoftEdge"
+      }
+    },
+
+    "ie11": {
+      "desiredCapabilities": {
+        "browserName": "internet explorer",
+        "platform": "WIN7",
+        "version": "11.0"
+      }
+    },
+
+    "ie": {
+      "desiredCapabilities": {
+        "browser": "internet explorer"
       }
     }
   },
