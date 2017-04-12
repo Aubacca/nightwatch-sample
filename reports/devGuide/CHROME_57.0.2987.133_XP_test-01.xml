@@ -5,16 +5,16 @@
 
   <testsuite name="devGuide.test-01"
     errors="0" failures="0" hostname="" id="" package="devGuide" skipped="0"
-    tests="2" time="6.812" timestamp="Tue, 11 Apr 2017 11:27:47 GMT">
+    tests="2" time="6.836" timestamp="Wed, 12 Apr 2017 14:17:23 GMT">
   
-    <testcase name="step one" classname="devGuide.test-01" time="4.256" assertions="2">
+    <testcase name="step one" classname="devGuide.test-01" time="4.065" assertions="2">
 
     
 
     
     </testcase>
   
-    <testcase name="step two" classname="devGuide.test-01" time="2.556" assertions="2">
+    <testcase name="step two" classname="devGuide.test-01" time="2.771" assertions="2">
 
     
 

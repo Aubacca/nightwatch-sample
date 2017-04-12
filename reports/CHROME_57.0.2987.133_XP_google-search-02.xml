@@ -5,9 +5,9 @@
 
   <testsuite name="google-search-02"
     errors="0" failures="0" hostname="" id="" package="google-search-02" skipped="0"
-    tests="1" time="6.347" timestamp="Tue, 11 Apr 2017 11:28:09 GMT">
+    tests="1" time="9.377" timestamp="Wed, 12 Apr 2017 14:17:48 GMT">
   
-    <testcase name="Demo test Google" classname="google-search-02" time="6.347" assertions="5">
+    <testcase name="Demo test Google" classname="google-search-02" time="9.377" assertions="5">
 
     
 
