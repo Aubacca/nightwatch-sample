@@ -5,9 +5,9 @@
 
   <testsuite name="devGuide.test-03"
     errors="0" failures="0" hostname="" id="" package="devGuide" skipped="0"
-    tests="1" time="10.88" timestamp="Wed, 12 Apr 2017 14:17:37 GMT">
+    tests="1" time="13.43" timestamp="Thu, 13 Apr 2017 06:38:09 GMT">
   
-    <testcase name="demoSearchTrivadis" classname="devGuide.test-03" time="10.88" assertions="3">
+    <testcase name="demoSearchTrivadis" classname="devGuide.test-03" time="13.43" assertions="3">
 
     
 
