@@ -3,6 +3,7 @@
 /download
 /log
 /reports
+/reports/*.xml
 
 # dependencies
 /node_modules

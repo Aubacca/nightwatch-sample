@@ -1,7 +1,7 @@
 module.exports = {
   '@tags': ['bdd', 'nightwatch', 'homepage'],
   '@disabled': false,
-  'BDD nightwatch homepage test' : function (client) {
+  'BDD nightwatch homepage test (lots of framework error messages!)' : function (client) {
     var timeout = 1000; // in ms
 
     client
