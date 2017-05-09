@@ -1,1 +1,2 @@
 nightwatch
+exit

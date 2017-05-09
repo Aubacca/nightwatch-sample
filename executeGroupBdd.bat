@@ -1,1 +1,2 @@
 nightwatch --group bdd
+exit
